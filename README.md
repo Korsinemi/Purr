@@ -11,7 +11,7 @@ URL Shortener / Acortador de URLS
 4. Una vez creada tu ID, puedes revisar el archivo **shortener.json**, aqui puedes ver el id de tu link corto y a donde redirecciona
 - Para esto solo ve a https://purr.ml/ y luego tu ID asi > https://purr.ml/HIQF20 (Y ese es tu link acortado OwO)
 
-
+> Nota: Esto **NO** es automatico, ya que tomara tiempo y disponibilidad de mi parte
 
 # **English**
 
@@ -21,3 +21,5 @@ URL Shortener / Acortador de URLS
 - Or if you want something personalized you can also do it, just check that it is not repeated
 4. Once your ID is created, you can review the **redirects.txt** file, here you can see your short link id and where it redirects to
 - For this just go to https://purr.ml/ and then your ID like this > https://purr.ml/HIQF20 (And that is your shortened link OwO)
+
+> Note: This is **NOT** automatic, as it will take time and availability on my part
