@@ -1,7 +1,7 @@
 {
   "sites": {
       "Furrycality": { "_comment_": "Tu Usuario / Your Username"
-          "redirect": "https://furrycality.tk/test",
+          "redirect": "https://furrycality.tk/test", "_comment_": "URL para acortar / The redirect URL",
           "id": "HIQF20", "_comment_": "Tu ID, si no lo pones lo dare yo / Your ID, if you dont set it i go to give one"
        }
   }
