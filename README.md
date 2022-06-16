@@ -6,7 +6,7 @@ URL Shortener / Acortador de URLS
 
 ## Como usarla
 1. Dale **fork** a este repositorio y modifica el archivo **shortener.json**
-2. Se le otorgara un ID a tu sitio web similar a este > **https://purr.ml/HIQF20 **
+2. Se le otorgara un ID a tu sitio web similar a este > **https://purr.ml/HIQF20**
 3. Una vez creada tu ID, puedes revisar el archivo **redirects.txt**, aqui puedes ver tu link corto y a donde redirecciona, aparecera en una estructura asi
 
 - NombreDeUsuario - https://loooooooooooong.url > https://purr.ml/AKLEMS
